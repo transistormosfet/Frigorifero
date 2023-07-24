@@ -12,6 +12,10 @@ void setup() {
 }
 
 void loop() {
+  //switch case mod 1,2,3,4 (1,2,3,4=silent)
+  //void schermo
+  //void lettura sensori
+  //void pilotaggio
+  //void defrost
   
-
 }
